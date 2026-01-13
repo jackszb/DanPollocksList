@@ -1088,6 +1088,7 @@ ads.mopub.com
 ads.morningstar.com
 ads.mouseplanet.com
 ads.movieweb.com
+ads.mozilla.org
 ads.mp.mydas.mobi
 ads.mp3searchy.com
 ads.mtv.uol.com.br
@@ -2273,6 +2274,7 @@ bar.baidu.com
 baramije.net
 bargainservice.online
 barnesandnoble.bfast.com
+baselabo.heteml.net
 baskidunyasi.net
 baxtel.fr
 bayyinah.fr
@@ -2410,6 +2412,7 @@ biz-offer.com
 biz5.sandai.net
 bizad.nikkeibp.co.jp
 bizalmas.com
+bizlawpoint.com
 bizographics.com
 bizony.eu
 bkrtx.com
@@ -2454,7 +2457,6 @@ bnrs.ilm.ee
 bntbcstglobal.112.2o7.net
 bnvxcfhdgf.blogspot.com.es
 boardgamearena.fr
-bobcard.co.in
 bobgear.fr
 bodelen.com
 bodyfitness-epernon.fr
@@ -2787,6 +2789,7 @@ canwestglobal.112.2o7.net
 capath.com
 capcityadvcom.112.2o7.net
 capcityadvcom.122.2o7.net
+capital-invest-can.cropvita.sbs
 capitalregionusa.fr
 capostdelivery.com
 car-donation.shengen.ru
@@ -3449,6 +3452,7 @@ cpro.baidu.com
 cpxdeliv.com
 cra-arc-gc-ca.noads.biz
 cra-etransfer.online
+crarefundsreview.com
 crdp-strsbourg.fr
 creampie.afdss.info
 creatiby1.unicast.com
@@ -3508,6 +3512,7 @@ cullligan.fr
 culturalfoundation.fr
 cumc-hmb.com
 cuntwars.com
+customsoftwaredeveloper.com.au
 cutesaucepuppy.com
 cw.nu
 cxociocom.112.2o7.net
@@ -4159,6 +4164,7 @@ en.btcprofit.we-trck.com
 en.likefever.org
 en.ultrex.ru
 en.wikipedia.org
+enablement.joethecpa.info
 enalytics.fr
 endicia.fr
 enerweb.oewabox.at
@@ -4666,6 +4672,7 @@ gdelt.hit.gemius.pl
 gdelv.hit.gemius.pl
 gdyn.cnngo.com
 geizhals.oewabox.at
+gekowex.com
 gem.pl
 gemius.pl
 geniusdisplay.com
@@ -4734,6 +4741,7 @@ globalnews247.net
 globalwebads.com
 gm.mmstat.com
 gmads.net
+gmailapcq6.eblink5.com
 gmchevyapprentice.112.2o7.net
 gmhummer.112.2o7.net
 gmx.oewabox.at
@@ -4888,6 +4896,7 @@ gscounters.us1.gigya.com
 gserv.cneteu.net
 gslbeacon.lijit.com
 gspro.hit.gemius.pl
+gstscra.com
 gtamoding.fr
 gtcc1.acecounter.com
 gu.5.p2l.info
@@ -4899,6 +4908,7 @@ guildofangels.net
 guiltygear.fr
 gv-1nt3rc.com
 gwallet.com
+gwene.com.slackware.alien.blog
 gwklaser.fr
 gyros.es
 h-adashx.ut.taobao.com
@@ -5384,6 +5394,7 @@ instantstreetview.fr
 int.sitestat.com
 integer-ms-home.com
 intela.com
+intelcom-on.progressionlive.com
 intelcomasfcmscta.com
 intelcorpcim.112.2o7.net
 intelglobal.112.2o7.net
@@ -6036,6 +6047,7 @@ lortab.hut1.ru
 losu.112.2o7.net
 louisvil.app.ur.gcion.com
 louisvil.ur.gcion.com
+love-quest.blog
 lovedonesproducts.com
 lovittco.com.au
 lowervalues.com
@@ -6180,6 +6192,7 @@ mapupdatezone.com
 marathondulacduder.fr
 margaretanddavid.com
 marie-gerardmer.fr
+marigo.redbacksburger.info
 marinescence.fr
 marketaff.com
 marketgameland.com
@@ -6522,7 +6535,6 @@ mobrevflwms.com
 mochibot.com
 moddb.fr
 modescrips.info
-modlily.com
 modlily.net
 mojn.com
 mokavilag.com
@@ -7127,6 +7139,7 @@ ofracosmetics.fr
 oh.5.p2l.info
 ohmydating.com
 oimsgad.qq.com
+ois.is
 oiseau-perdu.fr
 oix.com
 oix.net
@@ -7301,6 +7314,7 @@ p4psearch.china.alibaba.com
 p5.preppypm.com
 p6.preppypm.com
 p7.preppypm.com
+pa-cd.com
 pa-voyance.fr
 pa.5.p2l.info
 paalp.fr
@@ -7337,6 +7351,7 @@ panimi.fr
 pantaya.fr
 papageienseite.de
 paperg.com
+paradise.homemortgageblog.info
 parafiaukta.pl
 parent.oewabox.at
 paris-banlieue-meetinggame.fr
@@ -7363,6 +7378,7 @@ partners.adklick.de
 partners.webmasterplan.com
 passeura.com
 passivemarcoanyhow.com
+passport.acla.org.cn
 passportindex.fr
 passpport.com
 pastesbin.com
@@ -7696,6 +7712,7 @@ probikesshop.fr
 probusinesshub.com
 proclickpacket.com
 prod-a.applovin.com
+prodentim101.com
 productresearchpanel.com
 producttestpanel.com
 prof.estat.com
@@ -7848,6 +7865,7 @@ qualifiedourspecialoffer.com
 quantcast584928381.s.moatpixel.com
 quantserve.com
 question2answer.com
+questrade-pypip.com
 quickandeasy.co.za
 quickbrowsersearch.com
 quickchess.fr
@@ -8034,6 +8052,7 @@ resultatspmu.fr
 retaildetail.fr
 retin-a.1.p2l.info
 retrofuture.fr
+return2025costco.com
 rev-cvnada-dep.com
 reverso.refr.adgtw.orangeads.fr
 revoke-dashboard.com
@@ -8060,6 +8079,7 @@ rightstats.com
 rimaje.nl
 rimnow.fr
 ringtonepartner.com
+riosaladohp.com
 riptownmedia.122.2o7.net
 rivalo.network
 river-store.com
@@ -8632,6 +8652,7 @@ soarpower.com
 sobar.baidu.com
 sobolev.net.ru
 sochr.com
+sociagil.fr
 social.bidsystem.com
 societegernerale.fr
 societergenerale.fr
@@ -9355,6 +9376,7 @@ tps10216.doubleverify.com
 tps20519.doubleverify.com
 tps30.doubleverify.com
 tps31.doubleverify.com
+tr-red.lamanoqueayuda.org
 tr.adinterax.com
 tr.bigpoint.com
 tr.outbrain.com
@@ -9616,6 +9638,7 @@ tsyndicate.com
 ttarget.adbureau.net
 ttnet.yandex.com.tr
 ttoc8ok.com
+tubero.ellystegge.info
 tubgirl.me
 tubgirl.org
 tubr8.fr
@@ -9728,6 +9751,7 @@ union.56.com
 union.6.cn
 union.baidu.com
 unitdotto.club
+united-domaine.tech
 unityads.unity.cn
 unityads.unitychina.cn
 univ-murs.fr
@@ -9762,6 +9786,7 @@ urc.taboolasyndication.com
 url-hoster.com
 url-redirect.com
 url2all.net
+url3781.host.inreception.com
 url9810.tokocrypto.com
 urlconnection.net
 urlcut.net
@@ -9959,6 +9984,7 @@ vipon.fr
 viralture.com
 viralvideo.112.2o7.net
 viralvideos.tips
+virewin.com
 viriginradio.fr
 vis.sexlist.com
 visana.fr
@@ -10142,6 +10168,7 @@ wayfarerspoutpraise.com
 wd.adcolony.com
 wdm29.com
 we-are-gamers.com
+wealthsimple-dwvip.com
 weapfuh.originalriver-tone.top
 weather.fixitpro.ro
 weatherapi.co
@@ -10598,6 +10625,7 @@ www.cablyshaw.com
 www.cadaver.org
 www.cadvision.com
 www.cafecoquin.com
+www.calnanflack.com
 www.cam4.fr
 www.cambonanza.com
 www.camion.idps.co.uk
@@ -10780,6 +10808,7 @@ www.fastcounter.linkexchange.nl
 www.fatcatrewards.com
 www.feedstermedia.com
 www.fetisch-pornos.cxa.de
+www.fhtmmeeting.com
 www.ficken-ficken-ficken.cxa.de
 www.ficken-xxx.cxa.de
 www.filezilla.fr
@@ -10891,6 +10920,7 @@ www.heimlich-gefilmt.cxa.de
 www.heusmarketing.nl
 www.hibids10.com
 www.hieroglyph.freeuk.com
+www.hiewa.com.my
 www.hightrafficads.com
 www.hiroden-con.jp
 www.histats.com
@@ -11202,6 +11232,7 @@ www.proflashdata.com
 www.projectwonderful.com
 www.prolapseman.com
 www.prtc.net
+www.pruialoatpmye.xyz
 www.psclicks.com
 www.psychics-readings-for-free.com
 www.pubdirecte.com
@@ -11733,6 +11764,7 @@ yourgascards.com
 yourgiftrewards.com
 yourgiftzone.com
 youripad4free.com
+yourofficialsurveysplace.store
 yourrewardzone.com
 yoursmartrewards.com
 youtube.112.2o7.net
